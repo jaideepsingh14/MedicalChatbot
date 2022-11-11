@@ -1,0 +1,27 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hello
+bot : - How can I assist you.
+user : I have fever
+bot : - you should take a tablet of crocin after you have your meal.
+user : okay
+bot : - Do you want to book an appointement with the doctor?
+user : yes
+bot : - yes please click on this link to http://127.0.0.1:5000/appoinment book appointment
+user : Thanks
+bot : - happy to help!
+user : Hello
+bot : - How can I assist you.
+user : Headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : 2
+bot : - These might be symptoms of Covid, take plenty of rest and drink lots of water, you must also isolate yourself
+user : Ok
+bot : - Do you want to book an appointement with the doctor?
+user : yes
+bot : - yes please click on this link to http://127.0.0.1:5000/appoinment book appointment
+user : thanks
+bot : - happy to help!
+user : hello
+bot : - How can I assist you.
+user : headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
